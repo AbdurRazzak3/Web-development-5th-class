@@ -1,0 +1,9 @@
+.audio-style {
+  text-align: center;
+  color: red;
+  background-color: green;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  font-size: 50px;
+}
